@@ -13,7 +13,15 @@
     "widgetss": "https://play-lh.googleusercontent.com/y1wbEEI6TuY7uEWxCb5hPvq9JTTliUfCSIHq4fFu-GI3Q7K3IJ8eC9SvNAXzQ9ay4os=w5120-h2880",
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.util.widget",
     "widgetdiscount": "Free Download"
-  }      
+  },  
+  
+  {
+    "widgetname": "Launcher Widget",
+    "widgeticon": "https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960-rw",
+    "widgetss": "https://play-lh.googleusercontent.com/4u5bSozkCiMMS0kg-O4d2Lby5u4sujAACTqwa0HKwb6h_Ko6W71Jcs6KpQilsem4PrE=w5120-h2880-rw",
+    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
+    "widgetdiscount": "Most Seller"
+  }
          
          
 ]
