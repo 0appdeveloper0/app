@@ -6,6 +6,21 @@
     "widgetlink":"https://play.google.com/store/apps/details?id=com.app.developer.launcher.widget",
     "widgetdiscount":"Most Seller"
   },
+  
+     {
+    "widgetname": "System Manager Widget",
+    "widgeticon": "https://play-lh.googleusercontent.com/nWVfj97vDtaNQrWqtTS5BvPMSa7dZpdQ49HMSOFVMmaeEjK5ZokRILXEoDX83_0RwRI=w480-h960-rw",
+    "widgetss": "https://play-lh.googleusercontent.com/dBp4VlCybJpkqbnfC4lGsafpUFWF6Pvne3YV5fm4YaHMSqLoZ2G5ZVI3TyZCww9N_0nE=w5120-h2880-rw",
+    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.systemManager.widget",
+    "widgetdiscount": "New App"
+  },
+    {
+    "widgetname": "Calculator Widget",
+    "widgeticon": "https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960-rw",
+    "widgetss": "https://play-lh.googleusercontent.com/4u5bSozkCiMMS0kg-O4d2Lby5u4sujAACTqwa0HKwb6h_Ko6W71Jcs6KpQilsem4PrE=w5120-h2880-rw",
+    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
+    "widgetdiscount": "Most Seller"
+  },
    
   {
     "widgetname": "Util Widget",
@@ -13,15 +28,6 @@
     "widgetss": "https://play-lh.googleusercontent.com/y1wbEEI6TuY7uEWxCb5hPvq9JTTliUfCSIHq4fFu-GI3Q7K3IJ8eC9SvNAXzQ9ay4os=w5120-h2880",
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.util.widget",
     "widgetdiscount": "Free Download"
-  },  
+  }  
   
-  {
-    "widgetname": "Calculator Widget",
-    "widgeticon": "https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960-rw",
-    "widgetss": "https://play-lh.googleusercontent.com/4u5bSozkCiMMS0kg-O4d2Lby5u4sujAACTqwa0HKwb6h_Ko6W71Jcs6KpQilsem4PrE=w5120-h2880-rw",
-    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
-    "widgetdiscount": "Most Seller"
-  }
-         
-         
 ]
