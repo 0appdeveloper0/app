@@ -4,7 +4,7 @@
     "widgeticon":"https://play-lh.googleusercontent.com/Rr7yrWBA6fTYeaDTchSUj5EjAm9JNZt3jxORR3MWDzswyLWoc7-e8l-ZjiwYcCNU2Q=w480-h960-rw",
     "widgetss":"https://play-lh.googleusercontent.com/D36DxTW1UKTT6GcBKZpGnpZxOQWCOcSeimVIgzojgxu9w2e6qDIjXGVRvzgTtnZO_NQ=w5120-h2880-rw",
     "widgetlink":"https://play.google.com/store/apps/details?id=com.app.developer.launcher.widget",
-    "widgetdiscount":"Most Seller"
+    "widgetdiscount":"%35 Discount"
   },
   {
     "widgetname": "Dynamic Island Widget",
@@ -19,7 +19,7 @@
     "widgeticon": "https://play-lh.googleusercontent.com/vjnB1a-lnboRKPZz3PRwnJfMvgj0oQ3qM9bMHqX4zx8iDFzDJVaPQO8dkEJrEXIDuh0R=w480-h960-rw",
     "widgetss": "https://play-lh.googleusercontent.com/Ao_WHP3VtSHceQ0eXdCJ7_rUtlf_HPCHCXrf8pir1-o8m9ESM3gWgvkMWlrR0cdZbQ=w5120-h2880-rw",
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.systemmanager.widget",
-    "widgetdiscount": "Best Sell"
+    "widgetdiscount":"%35 Discount"
   },
   
   {
@@ -28,6 +28,14 @@
     "widgetss": "https://play-lh.googleusercontent.com/XqTjCLbNVPeJPtLiLo60Q_d6Bnf3vMdSxqtsJo9bTheT5khuKlDBoGdV8gxIrSqYK0sF=w2560-h1440-rw",
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.crypto.widget",
     "widgetdiscount": "Per Second Update"
+  },
+  
+   {
+    "widgetname": "Astro Widget",
+    "widgeticon": "https://play-lh.googleusercontent.com/sZ0P4gOVHNdY4I87iJzX9UZsLmv5oyNylNphIW-6XCJo3-FPoYCiGXijaA2toij-r-W6=w240-h480",
+    "widgetss": "https://play-lh.googleusercontent.com/BG6_xpmj0Zrit4NRKtrf0gg-tZ6G-ZJ2JLaPFARuAZzKW070QKggmUSzWtsY4sqegWKM=w2560-h1440",
+    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.astro.widget",
+    "widgetdiscount": "Limited Free"
   },
    
     {
@@ -38,13 +46,7 @@
     "widgetdiscount": "Most Seller"
   },
   
-    {
-    "widgetname": "Astro Widget",
-    "widgeticon": "https://play-lh.googleusercontent.com/sZ0P4gOVHNdY4I87iJzX9UZsLmv5oyNylNphIW-6XCJo3-FPoYCiGXijaA2toij-r-W6=w240-h480",
-    "widgetss": "https://play-lh.googleusercontent.com/BG6_xpmj0Zrit4NRKtrf0gg-tZ6G-ZJ2JLaPFARuAZzKW070QKggmUSzWtsY4sqegWKM=w2560-h1440",
-    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.astro.widget",
-    "widgetdiscount": "Low Price"
-  },
+   
       {
     "widgetname": "Colorful Widget",
     "widgeticon": "https://play-lh.googleusercontent.com/gBrQfq4f_XH7TmgJMOV4ev3vzj-xoCD69Dz8e98rKccBXBXXGyRObuz5NKNH14RHkw=w240-h480",
