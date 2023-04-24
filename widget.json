@@ -11,6 +11,14 @@
     "widgeticon": "https://play-lh.googleusercontent.com/-jjUV7MwnAhWPMnonC04_IRBtDoSbqu_oHuCueWp78OJzUqG1ekrI1HUFXrpHnUQhTpO=w480-h960-rw",
     "widgetss": "https://play-lh.googleusercontent.com/IKBzqMXyKTS40cT4jQ2FbDZq--amYj5nalf0SbTcx-OXKJjV6rHbqEqL3vaR9PIoEbw=w5120-h2880-rw",
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.dynamic.widget",
+    "widgetdiscount": ""
+  },
+  
+   {
+    "widgetname": "Ios 16 Widget",
+    "widgeticon": "https://play-lh.googleusercontent.com/Mw1vN7QSsLA3djNcQ8YILf72EtDCQmo__JwXkeODM-DfVPtipRfoRSDjOBCWqQ2e53I=w240-h480-rw",
+    "widgetss": "https://play-lh.googleusercontent.com/7ZBFWlfZaJ2hgdu8IzLuGdgrFdLp0kI5cvn6t2Od0Ys0gMktkF2PcyO9uXXJtzVMI7Tm=w2560-h1440-rw",
+    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.concept.widget",
     "widgetdiscount": "Limeted Free NOW !!!"
   },
   
@@ -21,13 +29,12 @@
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.systemmanager.widget",
     "widgetdiscount":"%35 Discount"
   },
-  
-  {
-    "widgetname": "Crypto Tracker Widget",
-    "widgeticon": "https://play-lh.googleusercontent.com/hcYc1SERNT3tX6hdRZwyCwZQVc_i2rqeWZBqsLE4ZG_sCRHmAsKYdhjh6zX66l8FrVo=w240-h480-rw",
-    "widgetss": "https://play-lh.googleusercontent.com/XqTjCLbNVPeJPtLiLo60Q_d6Bnf3vMdSxqtsJo9bTheT5khuKlDBoGdV8gxIrSqYK0sF=w2560-h1440-rw",
-    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.crypto.widget",
-    "widgetdiscount": "Limeted Free NOW !!!"
+    {
+    "widgetname": "Calculator Widget",
+    "widgeticon": "https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960-rw",
+    "widgetss": "https://play-lh.googleusercontent.com/4u5bSozkCiMMS0kg-O4d2Lby5u4sujAACTqwa0HKwb6h_Ko6W71Jcs6KpQilsem4PrE=w5120-h2880-rw",
+    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
+    "widgetdiscount": ""
   },
   
    {
@@ -37,16 +44,7 @@
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.astro.widget",
     "widgetdiscount": ""
   },
-   
-    {
-    "widgetname": "Calculator Widget",
-    "widgeticon": "https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960-rw",
-    "widgetss": "https://play-lh.googleusercontent.com/4u5bSozkCiMMS0kg-O4d2Lby5u4sujAACTqwa0HKwb6h_Ko6W71Jcs6KpQilsem4PrE=w5120-h2880-rw",
-    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
-    "widgetdiscount": ""
-  },
-  
-   
+    
       {
     "widgetname": "Colorful Widget",
     "widgeticon": "https://play-lh.googleusercontent.com/gBrQfq4f_XH7TmgJMOV4ev3vzj-xoCD69Dz8e98rKccBXBXXGyRObuz5NKNH14RHkw=w240-h480",
@@ -54,13 +52,13 @@
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.colorful.widget",
     "widgetdiscount": "Limeted Free NOW !!!"
   },
-  
+    
   {
-    "widgetname": "Ios 16 Widget",
-    "widgeticon": "https://play-lh.googleusercontent.com/Mw1vN7QSsLA3djNcQ8YILf72EtDCQmo__JwXkeODM-DfVPtipRfoRSDjOBCWqQ2e53I=w240-h480-rw",
-    "widgetss": "https://play-lh.googleusercontent.com/7ZBFWlfZaJ2hgdu8IzLuGdgrFdLp0kI5cvn6t2Od0Ys0gMktkF2PcyO9uXXJtzVMI7Tm=w2560-h1440-rw",
-    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.concept.widget",
-    "widgetdiscount": "Limeted Free NOW !!!"
+    "widgetname": "Crypto Tracker Widget",
+    "widgeticon": "https://play-lh.googleusercontent.com/hcYc1SERNT3tX6hdRZwyCwZQVc_i2rqeWZBqsLE4ZG_sCRHmAsKYdhjh6zX66l8FrVo=w240-h480-rw",
+    "widgetss": "https://play-lh.googleusercontent.com/XqTjCLbNVPeJPtLiLo60Q_d6Bnf3vMdSxqtsJo9bTheT5khuKlDBoGdV8gxIrSqYK0sF=w2560-h1440-rw",
+    "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.crypto.widget",
+    "widgetdiscount": ""
   },
    
   {
