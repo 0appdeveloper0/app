@@ -4,7 +4,7 @@
     "widgeticon":"https://play-lh.googleusercontent.com/Rr7yrWBA6fTYeaDTchSUj5EjAm9JNZt3jxORR3MWDzswyLWoc7-e8l-ZjiwYcCNU2Q=w480-h960-rw",
     "widgetss":"https://play-lh.googleusercontent.com/D36DxTW1UKTT6GcBKZpGnpZxOQWCOcSeimVIgzojgxu9w2e6qDIjXGVRvzgTtnZO_NQ=w5120-h2880-rw",
     "widgetlink":"https://play.google.com/store/apps/details?id=com.app.developer.launcher.widget",
-    "widgetdiscount":"Most Seller"
+    "widgetdiscount":"%25 DISCOUNT"
   },
   {
     "widgetname": "Dynamic Island Widget",
@@ -27,14 +27,14 @@
     "widgeticon": "https://play-lh.googleusercontent.com/vjnB1a-lnboRKPZz3PRwnJfMvgj0oQ3qM9bMHqX4zx8iDFzDJVaPQO8dkEJrEXIDuh0R=w480-h960-rw",
     "widgetss": "https://play-lh.googleusercontent.com/Ao_WHP3VtSHceQ0eXdCJ7_rUtlf_HPCHCXrf8pir1-o8m9ESM3gWgvkMWlrR0cdZbQ=w5120-h2880-rw",
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.systemmanager.widget",
-    "widgetdiscount":"%35 Discount"
+    "widgetdiscount":"Best Seller"
   },
     {
     "widgetname": "Calculator Widget",
     "widgeticon": "https://play-lh.googleusercontent.com/cgiEO61Qmx8JZhbCQG-xKtlPQVoI5oZbdEOh4unmOlT1E-ZvvJ-dJYO-erJVmEvTRtge=w480-h960-rw",
     "widgetss": "https://play-lh.googleusercontent.com/4u5bSozkCiMMS0kg-O4d2Lby5u4sujAACTqwa0HKwb6h_Ko6W71Jcs6KpQilsem4PrE=w5120-h2880-rw",
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.calculator.widget",
-    "widgetdiscount": ""
+ "widgetdiscount":"%25 DISCOUNT"
   },
   
    {
@@ -81,6 +81,6 @@
     "widgeticon": "https://play-lh.googleusercontent.com/-SdeNJZ_B4rDc0QtTshFCc7PO2A2GJBlYvbYoay_riwr59QvTIBd0Hdit3Ka0RhvG9TN=w480-h960-rw",
     "widgetss": "https://play-lh.googleusercontent.com/L5Ly_YbaQkPqSbXTJUE3HApaHwbk27M7sP9U5_h7Xwl7Xgp1mTDuFeE6CW_HS1_O0yZo=w5120-h2880-rw",
     "widgetlink": "https://play.google.com/store/apps/details?id=com.app.developer.countUp.widget",
-    "widgetdiscount": ""
+  "widgetdiscount":"%25 DISCOUNT"
   }
 ]
