@@ -6,6 +6,15 @@
     "widgetss":"https://raw.githubusercontent.com/mahmut-salih-cicek/Play_Store_Picture/main/ss-3/unnamed-4.png",
     "widgetlink":"https://play.google.com/store/apps/details?id=com.launch.app.apple",
     "widgetdiscount":"New App"
+  },
+   
+    {
+    "widgetname": "Ios 17 Widget",
+    "widgeticon":"https://raw.githubusercontent.com/0appdeveloper0/app/main/ss-4/unnamed-7.png",
+    "widgetss":"https://raw.githubusercontent.com/0appdeveloper0/app/main/ss-4/unnamed-8.png",
+    "widgetlink":"https://play.google.com/store/apps/details?id=com.ios.widget.app.ios17widget",
+    "widgetdiscount":"Free App!!"
   }
+   
   
 ]
